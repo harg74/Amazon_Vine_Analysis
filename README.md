@@ -54,7 +54,12 @@ Lastly, in notebook [Vine Reviews](https://github.com/harg74/Amazon_Vine_Analysi
 
 ## Summary
 
-As analyzed the vine program might just not be worth it for the sports category. Looking at the results, there were just 312 reviews and only 129 (41%) review with 5-star rating. On the other hand, a similar situation happened, where only 52% of the reviews were 5-star ratings. There is a significant variation between the volume of the reviews the vine and non-vine programs, which could be a flag indicating that the vine program is not very popular in this category. It could also mean that the reviewers are in fact reviewing the quality and funcionality without being mislead by a free product. So for a company to look for good reviews might not want to pay for it as it is not incentivizing the people to write better reviews.
+As analyzed the Vine program might just not be worth it for the sports category. Looking at the results, there were just 312 reviews and only 129 (41%) review with 5-star rating. On the other hand, a similar situation happened, where only 52% of the reviews were 5-star ratings. There is a significant variation between the volume of the reviews the vine and non-vine programs, which could be a flag indicating that the vine program is not very popular in this category. It could also mean that the reviewers are in fact reviewing the quality and funcionality without being mislead by a free product. So for a company to look for good reviews might not want to pay for it as it is not incentivizing the people to write better reviews.
 
+As an additional analysis, in the Vine Reviews file, we included the average five star rating, for:
 
+  - Vine review program
+  - non-vine review program
+
+As expected, the five star rating average is greater in the Vine Review program with 4.09 and the Non-Vine Review program is 3.88. For future analysis, it would be helpful to determine whetrer if a correlation exists between the higher Vine Reviews and the overall rating for a particular product. On the other hand, a NLP sentiment analysis applied to the review_body column, it would helpful as well, to measure the how pleased the customer is with a the purchase.
 
