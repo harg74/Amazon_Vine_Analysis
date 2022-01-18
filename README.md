@@ -58,8 +58,8 @@ As analyzed the Vine program might just not be worth it for the sports category.
 
 As an additional analysis, in the Vine Reviews file, we included the average five star rating, for:
 
-  - Vine review program
-  - non-vine review program
+  - Vine Review program
+  - Non-Vine Review program
 
 As expected, the five star rating average is greater in the Vine Review program with 4.09 and the Non-Vine Review program is 3.88. For future analysis, it would be helpful to determine whetrer if a correlation exists between the higher Vine Reviews and the overall rating for a particular product. On the other hand, a NLP sentiment analysis applied to the review_body column, it would helpful as well, to measure the how pleased the customer is with a the purchase.
 
